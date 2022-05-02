@@ -15,7 +15,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Holaaa");
+		System.out.println("Holaaa MUNDO, ESTE ES EL PRIMER JAVA CON GIT");
 		Pronostico unPronostico= new Pronostico();
 		System.out.println(unPronostico.getBase());
 		
